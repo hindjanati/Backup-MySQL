@@ -6,7 +6,6 @@ This PHP file/class allows you to create compressed rolling backup sets of your 
 It will send a mail to your email attached with the names of the files that exist and inform you that notifies you that someone is login at the same moment
 <br>
 Files returned in GZip format are perfectly reusable in phpMyAdmin (or others).
-
 This method does not require root or administrator access to your server.
 You just need to have read/write rights on the database and in the storage space where you are going to save your files.
 
