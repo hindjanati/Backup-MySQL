@@ -62,3 +62,5 @@ Options
 | `nbr_fichiers` | Number of backups to keep | integer | `5` |
 | `nom_fichier` | File name prefix for backup | string | `backup` |
 
+
+To send an email from PHP . The solution is here :  https://github.com/PHPMailer/PHPMailer/
