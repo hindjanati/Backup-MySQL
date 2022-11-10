@@ -34,6 +34,18 @@ $default = array(
     $namef .= $fileInfo->getFilename() . "<br>\n"; // <---- stock the name of files to an sting 
   }
   ```
+``` 
+  $name = "name"; 
+  $to = "email received";  
+  $subject = "subject";
+  $body = "your message";
+  $from = "your email";
+  $password = "password";   
+ ```
+ 
+ ``` 
+    $con = mysqli_connect('localhost', 'root', '', 'bdName'); <------ your database name
+ ```
 
 Options
 -------
