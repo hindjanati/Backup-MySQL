@@ -1,5 +1,5 @@
 # Backup-MySQL
-==========================
+=========================
 
 This PHP file/class allows you to create compressed rolling backup sets of your MySQL databases whene the first login done.
 <br> 
